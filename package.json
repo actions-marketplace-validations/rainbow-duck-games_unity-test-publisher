@@ -30,7 +30,7 @@
     "@actions/core": "^1.9.1",
     "@actions/github": "^4.0.0",
     "@actions/glob": "^0.1.1",
-    "@octokit/types": "^6.3.2",
+    "@octokit/types": "^8.0.0",
     "handlebars": "^4.7.7",
     "xml-js": "^1.6.11"
   },
